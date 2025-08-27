@@ -13,7 +13,7 @@
     "category_source_label": "Medical Equipment",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SI",
@@ -29,7 +29,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SI",
@@ -45,7 +45,7 @@
     "category_source_label": "Pictures",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SI",
@@ -61,7 +61,7 @@
     "category_source_label": "Agricultural Production",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SI",
@@ -77,7 +77,7 @@
     "category_source_label": "Supply Water",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SI",
@@ -93,7 +93,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SI",
@@ -109,7 +109,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-AT",
@@ -125,7 +125,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-AT",
@@ -141,7 +141,7 @@
     "category_source_label": "Cultural Events",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-AT",
@@ -157,7 +157,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-AT",
@@ -173,7 +173,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-AT",
@@ -189,7 +189,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-AT",
@@ -205,7 +205,7 @@
     "category_source_label": "Tapestries",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-AT",
@@ -221,7 +221,7 @@
     "category_source_label": "Agricultural Production",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-AT",
@@ -237,7 +237,7 @@
     "category_source_label": "Solar Panels",
     "category_ui_label": "Energy & Eco-Friendly Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BE",
@@ -253,7 +253,7 @@
     "category_source_label": "Writers Services",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BE",
@@ -269,7 +269,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BE",
@@ -285,7 +285,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BE",
@@ -301,7 +301,7 @@
     "category_source_label": "Medical Equipment",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BE",
@@ -317,7 +317,7 @@
     "category_source_label": "Agricultural Production",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BE",
@@ -333,7 +333,7 @@
     "category_source_label": "Parking",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BE",
@@ -349,7 +349,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BE",
@@ -365,7 +365,7 @@
     "category_source_label": "Photographs",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BE",
@@ -381,7 +381,7 @@
     "category_source_label": "Fossil Fuel",
     "category_ui_label": "Energy & Eco-Friendly Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BE",
@@ -397,7 +397,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BG",
@@ -413,7 +413,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BG",
@@ -429,7 +429,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BG",
@@ -445,7 +445,7 @@
     "category_source_label": "Accommodation",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BG",
@@ -461,7 +461,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BG",
@@ -477,7 +477,7 @@
     "category_source_label": "Zero Rate",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-BG",
@@ -493,7 +493,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CZ",
@@ -509,7 +509,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CZ",
@@ -525,7 +525,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CZ",
@@ -541,7 +541,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CZ",
@@ -557,7 +557,7 @@
     "category_source_label": "Tapestries",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CZ",
@@ -573,7 +573,7 @@
     "category_source_label": "Street Cleaning",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CZ",
@@ -589,7 +589,7 @@
     "category_source_label": "Zero Reduced Rate",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CZ",
@@ -605,7 +605,7 @@
     "category_source_label": "Periodicals",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CZ",
@@ -621,7 +621,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CY",
@@ -637,7 +637,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CY",
@@ -653,7 +653,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CY",
@@ -669,7 +669,7 @@
     "category_source_label": "Agricultural Production",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CY",
@@ -685,7 +685,7 @@
     "category_source_label": "Zoological",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CY",
@@ -701,7 +701,7 @@
     "category_source_label": "Undertakers Services",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CY",
@@ -717,7 +717,7 @@
     "category_source_label": "Accommodation",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CY",
@@ -733,7 +733,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-CY",
@@ -749,7 +749,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-DE",
@@ -765,7 +765,7 @@
     "category_source_label": "Zero Reduced Rate",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-DE",
@@ -781,7 +781,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-DE",
@@ -797,7 +797,7 @@
     "category_source_label": "Broadcasting Services",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-DE",
@@ -813,7 +813,7 @@
     "category_source_label": "Pictures",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-DE",
@@ -829,7 +829,7 @@
     "category_source_label": "Medical Equipment",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-DE",
@@ -845,7 +845,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-DE",
@@ -861,7 +861,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-DK",
@@ -877,7 +877,7 @@
     "category_source_label": "Transport Passengers",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-DK",
@@ -893,7 +893,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-EE",
@@ -909,7 +909,7 @@
     "category_source_label": "Medical Equipment",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-EE",
@@ -925,7 +925,7 @@
     "category_source_label": "Zero Rate",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-EE",
@@ -941,7 +941,7 @@
     "category_source_label": "Accommodation",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-EE",
@@ -957,7 +957,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-EE",
@@ -973,7 +973,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-GR",
@@ -989,7 +989,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-GR",
@@ -1005,7 +1005,7 @@
     "category_source_label": "Zero Reduced Rate",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-GR",
@@ -1021,7 +1021,7 @@
     "category_source_label": "Transport Passengers",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-GR",
@@ -1037,7 +1037,7 @@
     "category_source_label": "Children Car Seats",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-GR",
@@ -1053,7 +1053,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-GR",
@@ -1069,7 +1069,7 @@
     "category_source_label": "Agricultural Equipment",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-GR",
@@ -1085,7 +1085,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-GR",
@@ -1101,7 +1101,7 @@
     "category_source_label": "Pictures",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-ES",
@@ -1117,7 +1117,7 @@
     "category_source_label": "Supply Water",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-ES",
@@ -1133,7 +1133,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-ES",
@@ -1149,7 +1149,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-ES",
@@ -1165,7 +1165,7 @@
     "category_source_label": "Agricultural Production",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-ES",
@@ -1181,7 +1181,7 @@
     "category_source_label": "Tapestries",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-ES",
@@ -1197,7 +1197,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FI",
@@ -1213,7 +1213,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FI",
@@ -1229,7 +1229,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FI",
@@ -1245,7 +1245,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FI",
@@ -1261,7 +1261,7 @@
     "category_source_label": "Photographs",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FI",
@@ -1277,7 +1277,7 @@
     "category_source_label": "Transport Passengers",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FI",
@@ -1293,7 +1293,7 @@
     "category_source_label": "Zero Reduced Rate",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FI",
@@ -1309,7 +1309,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FR",
@@ -1325,7 +1325,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FR",
@@ -1341,7 +1341,7 @@
     "category_source_label": "Agricultural Production",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FR",
@@ -1357,7 +1357,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FR",
@@ -1373,7 +1373,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FR",
@@ -1389,7 +1389,7 @@
     "category_source_label": "Broadcasting Services",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FR",
@@ -1405,7 +1405,7 @@
     "category_source_label": "Photographs",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FR",
@@ -1421,7 +1421,7 @@
     "category_source_label": "Medical Care",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FR",
@@ -1437,7 +1437,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-FR",
@@ -1453,7 +1453,7 @@
     "category_source_label": "Solar Panels",
     "category_ui_label": "Energy & Eco-Friendly Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HR",
@@ -1469,7 +1469,7 @@
     "category_source_label": "Children Car Seats",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HR",
@@ -1485,7 +1485,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HR",
@@ -1501,7 +1501,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HR",
@@ -1517,7 +1517,7 @@
     "category_source_label": "Restaurant",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HR",
@@ -1533,7 +1533,7 @@
     "category_source_label": "Agricultural Production",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HR",
@@ -1549,7 +1549,7 @@
     "category_source_label": "Wood Article98",
     "category_ui_label": "Energy & Eco-Friendly Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HR",
@@ -1565,7 +1565,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HU",
@@ -1581,7 +1581,7 @@
     "category_source_label": "Zero Rate",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HU",
@@ -1597,7 +1597,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HU",
@@ -1613,7 +1613,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HU",
@@ -1629,7 +1629,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HU",
@@ -1645,7 +1645,7 @@
     "category_source_label": "Cultural Events",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HU",
@@ -1661,7 +1661,7 @@
     "category_source_label": "Newspapers",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HU",
@@ -1677,7 +1677,7 @@
     "category_source_label": "Antiques",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-HU",
@@ -1693,7 +1693,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IE",
@@ -1709,7 +1709,7 @@
     "category_source_label": "Zero Reduced Rate",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IE",
@@ -1725,7 +1725,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IE",
@@ -1741,7 +1741,7 @@
     "category_source_label": "Parking",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IE",
@@ -1757,7 +1757,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IE",
@@ -1773,7 +1773,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IE",
@@ -1789,7 +1789,7 @@
     "category_source_label": "Photographs",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IE",
@@ -1805,7 +1805,7 @@
     "category_source_label": "Agricultural Production",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IE",
@@ -1821,7 +1821,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IE",
@@ -1837,7 +1837,7 @@
     "category_source_label": "Solar Panels",
     "category_ui_label": "Energy & Eco-Friendly Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IT",
@@ -1853,7 +1853,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IT",
@@ -1869,7 +1869,7 @@
     "category_source_label": "Newspapers",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IT",
@@ -1885,7 +1885,7 @@
     "category_source_label": "Housing Provision",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IT",
@@ -1901,7 +1901,7 @@
     "category_source_label": "Agricultural Production",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IT",
@@ -1917,7 +1917,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IT",
@@ -1933,7 +1933,7 @@
     "category_source_label": "Pictures",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IT",
@@ -1949,7 +1949,7 @@
     "category_source_label": "Zero Rate",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IT",
@@ -1965,7 +1965,7 @@
     "category_source_label": "Fossil Fuel",
     "category_ui_label": "Energy & Eco-Friendly Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-IT",
@@ -1981,7 +1981,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LT",
@@ -1997,7 +1997,7 @@
     "category_source_label": "Medical Equipment",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LT",
@@ -2013,7 +2013,7 @@
     "category_source_label": "Zero Reduced Rate",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LT",
@@ -2029,7 +2029,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LT",
@@ -2045,7 +2045,7 @@
     "category_source_label": "Wood",
     "category_ui_label": "Energy & Eco-Friendly Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LT",
@@ -2061,7 +2061,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LU",
@@ -2077,7 +2077,7 @@
     "category_source_label": "Wine Fresh Grape",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LU",
@@ -2093,7 +2093,7 @@
     "category_source_label": "Agricultural Production",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LU",
@@ -2109,7 +2109,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LU",
@@ -2125,7 +2125,7 @@
     "category_source_label": "Sporting Events",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LU",
@@ -2141,7 +2141,7 @@
     "category_source_label": "New Parking Rate",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LU",
@@ -2157,7 +2157,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LU",
@@ -2173,7 +2173,7 @@
     "category_source_label": "Tapestries",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LU",
@@ -2189,7 +2189,7 @@
     "category_source_label": "Fuel Mineral Oil",
     "category_ui_label": "Energy & Eco-Friendly Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LU",
@@ -2205,7 +2205,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LV",
@@ -2221,7 +2221,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LV",
@@ -2237,7 +2237,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LV",
@@ -2253,7 +2253,7 @@
     "category_source_label": "Supply Heating",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LV",
@@ -2269,7 +2269,7 @@
     "category_source_label": "Periodicals",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LV",
@@ -2285,7 +2285,7 @@
     "category_source_label": "Medical Care",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LV",
@@ -2301,7 +2301,7 @@
     "category_source_label": "Wood Article98",
     "category_ui_label": "Energy & Eco-Friendly Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-LV",
@@ -2317,7 +2317,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-MT",
@@ -2333,7 +2333,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-MT",
@@ -2349,7 +2349,7 @@
     "category_source_label": "Transport Passengers",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-MT",
@@ -2365,7 +2365,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-MT",
@@ -2381,7 +2381,7 @@
     "category_source_label": "Security Management",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-MT",
@@ -2397,7 +2397,7 @@
     "category_source_label": "Medical Equipment",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-MT",
@@ -2413,7 +2413,7 @@
     "category_source_label": "Periodicals",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-MT",
@@ -2429,7 +2429,7 @@
     "category_source_label": "Impressions",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-MT",
@@ -2445,7 +2445,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-NL",
@@ -2461,7 +2461,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-NL",
@@ -2477,7 +2477,7 @@
     "category_source_label": "Writers Services",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-NL",
@@ -2493,7 +2493,7 @@
     "category_source_label": "Ceramics",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-NL",
@@ -2509,7 +2509,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-NL",
@@ -2525,7 +2525,7 @@
     "category_source_label": "Zero Rate",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-NL",
@@ -2541,7 +2541,7 @@
     "category_source_label": "Agricultural Production",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-NL",
@@ -2557,7 +2557,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-NL",
@@ -2573,7 +2573,7 @@
     "category_source_label": "Solar Panels",
     "category_ui_label": "Energy & Eco-Friendly Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-NL",
@@ -2589,7 +2589,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PL",
@@ -2605,7 +2605,7 @@
     "category_source_label": "Street Cleaning",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PL",
@@ -2621,7 +2621,7 @@
     "category_source_label": "Agricultural Production",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PL",
@@ -2637,7 +2637,7 @@
     "category_source_label": "Newspapers",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PL",
@@ -2653,7 +2653,7 @@
     "category_source_label": "Medical Equipment",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PL",
@@ -2669,7 +2669,7 @@
     "category_source_label": "Zero Rate",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PL",
@@ -2685,7 +2685,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PL",
@@ -2701,7 +2701,7 @@
     "category_source_label": "Photographs",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PL",
@@ -2717,7 +2717,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PT",
@@ -2733,7 +2733,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PT",
@@ -2749,7 +2749,7 @@
     "category_source_label": "Agricultural Production",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PT",
@@ -2765,7 +2765,7 @@
     "category_source_label": "Supply Water",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PT",
@@ -2781,7 +2781,7 @@
     "category_source_label": "Tapestries",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PT",
@@ -2797,7 +2797,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PT",
@@ -2813,7 +2813,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PT",
@@ -2829,7 +2829,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-PT",
@@ -2845,7 +2845,7 @@
     "category_source_label": "Fossil Fuel",
     "category_ui_label": "Energy & Eco-Friendly Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-RO",
@@ -2861,7 +2861,7 @@
     "category_source_label": "Accommodation",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-RO",
@@ -2877,7 +2877,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-RO",
@@ -2893,7 +2893,7 @@
     "category_source_label": "Agricultural Production",
     "category_ui_label": "Agricultural Supplies",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-RO",
@@ -2909,7 +2909,7 @@
     "category_source_label": "Pharmaceutical Products",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-RO",
@@ -2925,7 +2925,7 @@
     "category_source_label": "Medical Equipment",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-RO",
@@ -2941,7 +2941,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-RO",
@@ -2957,7 +2957,7 @@
     "category_source_label": "Wood Article98",
     "category_ui_label": "Energy & Eco-Friendly Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-RO",
@@ -2973,7 +2973,7 @@
     "category_source_label": "Private Dwellings",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-RO",
@@ -2989,7 +2989,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SE",
@@ -3005,7 +3005,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SE",
@@ -3021,7 +3021,7 @@
     "category_source_label": "Restaurant",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SE",
@@ -3037,7 +3037,7 @@
     "category_source_label": "Loan Libraries",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SE",
@@ -3053,7 +3053,7 @@
     "category_source_label": "Broadcasting Services",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SE",
@@ -3069,7 +3069,7 @@
     "category_source_label": "Tapestries",
     "category_ui_label": "Art & Collectibles",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SE",
@@ -3085,7 +3085,7 @@
     "category_source_label": "Medical Equipment",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SE",
@@ -3101,7 +3101,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SK",
@@ -3117,7 +3117,7 @@
     "category_source_label": "Periodicals",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SK",
@@ -3133,7 +3133,7 @@
     "category_source_label": "Medical Equipment",
     "category_ui_label": "Pharmaceuticals & Medical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SK",
@@ -3149,7 +3149,7 @@
     "category_source_label": "Supply Electricity",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SK",
@@ -3165,7 +3165,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "EU-SK",
@@ -3181,7 +3181,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService.wsdl",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "UK-GB",
@@ -3197,7 +3197,7 @@
     "category_source_label": "Standard Rate (Default)",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "UK-GB",
@@ -3213,7 +3213,7 @@
     "category_source_label": "Advertising services for charities",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "UK-GB",
@@ -3229,7 +3229,7 @@
     "category_source_label": "Energy-saving materials permanently installed in dwellings and buildings used for a relevant residential purpose providing the total cost of them (not including VAT) is not over 60% of the cost of the installation of the products (not including VAT)",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "UK-GB",
@@ -3245,7 +3245,7 @@
     "category_source_label": "Books",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-AB",
@@ -3261,7 +3261,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-AB",
@@ -3275,9 +3275,25 @@
     "rate_type": "Zero",
     "rate_percent": 0.0,
     "category_source_label": "Basic Groceries",
-    "category_ui_label": "Other Physical Goods",
+    "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
+  },
+  {
+    "region_code": "CA-AB",
+    "country_iso": "CA",
+    "country_name": "Canada",
+    "jurisdiction_level": "Province",
+    "jurisdiction_name": "Alberta",
+    "tax_authority_name": "Canada Revenue Agency",
+    "tax_authority_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "tax_type": "GST",
+    "rate_type": "Zero",
+    "rate_percent": 0.0,
+    "category_source_label": "Prescription Drugs",
+    "category_ui_label": "Pharmaceuticals & Medical Goods",
+    "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-AB",
@@ -3293,7 +3309,7 @@
     "category_source_label": "Books",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-BC",
@@ -3309,7 +3325,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-BC",
@@ -3323,9 +3339,25 @@
     "rate_type": "Zero",
     "rate_percent": 0.0,
     "category_source_label": "Basic Groceries",
-    "category_ui_label": "Other Physical Goods",
+    "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
+  },
+  {
+    "region_code": "CA-BC",
+    "country_iso": "CA",
+    "country_name": "Canada",
+    "jurisdiction_level": "Province",
+    "jurisdiction_name": "British Columbia",
+    "tax_authority_name": "Canada Revenue Agency",
+    "tax_authority_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "tax_type": "GST",
+    "rate_type": "Zero",
+    "rate_percent": 0.0,
+    "category_source_label": "Prescription Drugs",
+    "category_ui_label": "Pharmaceuticals & Medical Goods",
+    "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-BC",
@@ -3341,7 +3373,7 @@
     "category_source_label": "Books",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-MB",
@@ -3357,7 +3389,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-MB",
@@ -3371,9 +3403,25 @@
     "rate_type": "Zero",
     "rate_percent": 0.0,
     "category_source_label": "Basic Groceries",
-    "category_ui_label": "Other Physical Goods",
+    "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
+  },
+  {
+    "region_code": "CA-MB",
+    "country_iso": "CA",
+    "country_name": "Canada",
+    "jurisdiction_level": "Province",
+    "jurisdiction_name": "Manitoba",
+    "tax_authority_name": "Canada Revenue Agency",
+    "tax_authority_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "tax_type": "GST",
+    "rate_type": "Zero",
+    "rate_percent": 0.0,
+    "category_source_label": "Prescription Drugs",
+    "category_ui_label": "Pharmaceuticals & Medical Goods",
+    "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-MB",
@@ -3389,7 +3437,7 @@
     "category_source_label": "Books",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NB",
@@ -3405,7 +3453,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NB",
@@ -3419,9 +3467,25 @@
     "rate_type": "Zero",
     "rate_percent": 0.0,
     "category_source_label": "Basic Groceries",
-    "category_ui_label": "Other Physical Goods",
+    "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
+  },
+  {
+    "region_code": "CA-NB",
+    "country_iso": "CA",
+    "country_name": "Canada",
+    "jurisdiction_level": "Province",
+    "jurisdiction_name": "New Brunswick",
+    "tax_authority_name": "Canada Revenue Agency",
+    "tax_authority_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "tax_type": "HST",
+    "rate_type": "Zero",
+    "rate_percent": 0.0,
+    "category_source_label": "Prescription Drugs",
+    "category_ui_label": "Pharmaceuticals & Medical Goods",
+    "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NB",
@@ -3437,7 +3501,7 @@
     "category_source_label": "Books",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NL",
@@ -3453,7 +3517,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NL",
@@ -3467,9 +3531,25 @@
     "rate_type": "Zero",
     "rate_percent": 0.0,
     "category_source_label": "Basic Groceries",
-    "category_ui_label": "Other Physical Goods",
+    "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
+  },
+  {
+    "region_code": "CA-NL",
+    "country_iso": "CA",
+    "country_name": "Canada",
+    "jurisdiction_level": "Province",
+    "jurisdiction_name": "Newfoundland and Labrador",
+    "tax_authority_name": "Canada Revenue Agency",
+    "tax_authority_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "tax_type": "HST",
+    "rate_type": "Zero",
+    "rate_percent": 0.0,
+    "category_source_label": "Prescription Drugs",
+    "category_ui_label": "Pharmaceuticals & Medical Goods",
+    "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NL",
@@ -3485,7 +3565,7 @@
     "category_source_label": "Books",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NS",
@@ -3501,7 +3581,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NS",
@@ -3515,9 +3595,25 @@
     "rate_type": "Zero",
     "rate_percent": 0.0,
     "category_source_label": "Basic Groceries",
-    "category_ui_label": "Other Physical Goods",
+    "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
+  },
+  {
+    "region_code": "CA-NS",
+    "country_iso": "CA",
+    "country_name": "Canada",
+    "jurisdiction_level": "Province",
+    "jurisdiction_name": "Nova Scotia",
+    "tax_authority_name": "Canada Revenue Agency",
+    "tax_authority_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "tax_type": "HST",
+    "rate_type": "Zero",
+    "rate_percent": 0.0,
+    "category_source_label": "Prescription Drugs",
+    "category_ui_label": "Pharmaceuticals & Medical Goods",
+    "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NS",
@@ -3533,7 +3629,7 @@
     "category_source_label": "Books",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NT",
@@ -3549,7 +3645,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NT",
@@ -3563,9 +3659,25 @@
     "rate_type": "Zero",
     "rate_percent": 0.0,
     "category_source_label": "Basic Groceries",
-    "category_ui_label": "Other Physical Goods",
+    "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
+  },
+  {
+    "region_code": "CA-NT",
+    "country_iso": "CA",
+    "country_name": "Canada",
+    "jurisdiction_level": "Province",
+    "jurisdiction_name": "Northwest Territories",
+    "tax_authority_name": "Canada Revenue Agency",
+    "tax_authority_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "tax_type": "GST",
+    "rate_type": "Zero",
+    "rate_percent": 0.0,
+    "category_source_label": "Prescription Drugs",
+    "category_ui_label": "Pharmaceuticals & Medical Goods",
+    "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NT",
@@ -3581,7 +3693,7 @@
     "category_source_label": "Books",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NU",
@@ -3597,7 +3709,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NU",
@@ -3611,9 +3723,25 @@
     "rate_type": "Zero",
     "rate_percent": 0.0,
     "category_source_label": "Basic Groceries",
-    "category_ui_label": "Other Physical Goods",
+    "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
+  },
+  {
+    "region_code": "CA-NU",
+    "country_iso": "CA",
+    "country_name": "Canada",
+    "jurisdiction_level": "Province",
+    "jurisdiction_name": "Nunavut",
+    "tax_authority_name": "Canada Revenue Agency",
+    "tax_authority_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "tax_type": "GST",
+    "rate_type": "Zero",
+    "rate_percent": 0.0,
+    "category_source_label": "Prescription Drugs",
+    "category_ui_label": "Pharmaceuticals & Medical Goods",
+    "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-NU",
@@ -3629,7 +3757,7 @@
     "category_source_label": "Books",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-ON",
@@ -3645,7 +3773,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-ON",
@@ -3659,9 +3787,25 @@
     "rate_type": "Zero",
     "rate_percent": 0.0,
     "category_source_label": "Basic Groceries",
-    "category_ui_label": "Other Physical Goods",
+    "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
+  },
+  {
+    "region_code": "CA-ON",
+    "country_iso": "CA",
+    "country_name": "Canada",
+    "jurisdiction_level": "Province",
+    "jurisdiction_name": "Ontario",
+    "tax_authority_name": "Canada Revenue Agency",
+    "tax_authority_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "tax_type": "HST",
+    "rate_type": "Zero",
+    "rate_percent": 0.0,
+    "category_source_label": "Prescription Drugs",
+    "category_ui_label": "Pharmaceuticals & Medical Goods",
+    "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-ON",
@@ -3677,7 +3821,7 @@
     "category_source_label": "Books",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-PE",
@@ -3693,7 +3837,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-PE",
@@ -3707,9 +3851,25 @@
     "rate_type": "Zero",
     "rate_percent": 0.0,
     "category_source_label": "Basic Groceries",
-    "category_ui_label": "Other Physical Goods",
+    "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
+  },
+  {
+    "region_code": "CA-PE",
+    "country_iso": "CA",
+    "country_name": "Canada",
+    "jurisdiction_level": "Province",
+    "jurisdiction_name": "Prince Edward Island",
+    "tax_authority_name": "Canada Revenue Agency",
+    "tax_authority_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "tax_type": "HST",
+    "rate_type": "Zero",
+    "rate_percent": 0.0,
+    "category_source_label": "Prescription Drugs",
+    "category_ui_label": "Pharmaceuticals & Medical Goods",
+    "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-PE",
@@ -3725,7 +3885,7 @@
     "category_source_label": "Books",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-QC",
@@ -3741,7 +3901,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-QC",
@@ -3755,9 +3915,25 @@
     "rate_type": "Zero",
     "rate_percent": 0.0,
     "category_source_label": "Basic Groceries",
-    "category_ui_label": "Other Physical Goods",
+    "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
+  },
+  {
+    "region_code": "CA-QC",
+    "country_iso": "CA",
+    "country_name": "Canada",
+    "jurisdiction_level": "Province",
+    "jurisdiction_name": "Quebec",
+    "tax_authority_name": "Canada Revenue Agency",
+    "tax_authority_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "tax_type": "GST",
+    "rate_type": "Zero",
+    "rate_percent": 0.0,
+    "category_source_label": "Prescription Drugs",
+    "category_ui_label": "Pharmaceuticals & Medical Goods",
+    "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-QC",
@@ -3773,7 +3949,7 @@
     "category_source_label": "Books",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-SK",
@@ -3789,7 +3965,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-SK",
@@ -3803,9 +3979,25 @@
     "rate_type": "Zero",
     "rate_percent": 0.0,
     "category_source_label": "Basic Groceries",
-    "category_ui_label": "Other Physical Goods",
+    "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
+  },
+  {
+    "region_code": "CA-SK",
+    "country_iso": "CA",
+    "country_name": "Canada",
+    "jurisdiction_level": "Province",
+    "jurisdiction_name": "Saskatchewan",
+    "tax_authority_name": "Canada Revenue Agency",
+    "tax_authority_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "tax_type": "GST",
+    "rate_type": "Zero",
+    "rate_percent": 0.0,
+    "category_source_label": "Prescription Drugs",
+    "category_ui_label": "Pharmaceuticals & Medical Goods",
+    "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-SK",
@@ -3821,7 +4013,7 @@
     "category_source_label": "Books",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-YT",
@@ -3837,7 +4029,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-YT",
@@ -3851,9 +4043,25 @@
     "rate_type": "Zero",
     "rate_percent": 0.0,
     "category_source_label": "Basic Groceries",
-    "category_ui_label": "Other Physical Goods",
+    "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
+  },
+  {
+    "region_code": "CA-YT",
+    "country_iso": "CA",
+    "country_name": "Canada",
+    "jurisdiction_level": "Province",
+    "jurisdiction_name": "Yukon",
+    "tax_authority_name": "Canada Revenue Agency",
+    "tax_authority_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "tax_type": "GST",
+    "rate_type": "Zero",
+    "rate_percent": 0.0,
+    "category_source_label": "Prescription Drugs",
+    "category_ui_label": "Pharmaceuticals & Medical Goods",
+    "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CA-YT",
@@ -3869,7 +4077,7 @@
     "category_source_label": "Books",
     "category_ui_label": "Books & Publications",
     "primary_source_url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst/gst-hst-rates.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CH-CH",
@@ -3885,7 +4093,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.estv.admin.ch/estv/en/home/mehrwertsteuer/mwst-steuersaetze.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CH-CH",
@@ -3901,7 +4109,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.estv.admin.ch/estv/en/home/mehrwertsteuer/mwst-steuersaetze.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "CH-CH",
@@ -3917,7 +4125,7 @@
     "category_source_label": "Accommodation",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://www.estv.admin.ch/estv/en/home/mehrwertsteuer/mwst-steuersaetze.html",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "NO-NO",
@@ -3933,7 +4141,7 @@
     "category_source_label": "Standard",
     "category_ui_label": "Standard Rate",
     "primary_source_url": "https://www.skatteetaten.no/en/business-and-organisation/vat/rates-and-registration/vat-rates/",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "NO-NO",
@@ -3949,7 +4157,7 @@
     "category_source_label": "Foodstuffs",
     "category_ui_label": "Food & Groceries",
     "primary_source_url": "https://www.skatteetaten.no/en/business-and-organisation/vat/rates-and-registration/vat-rates/",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   },
   {
     "region_code": "NO-NO",
@@ -3965,6 +4173,6 @@
     "category_source_label": "Passenger Transport",
     "category_ui_label": "Other Physical Goods",
     "primary_source_url": "https://www.skatteetaten.no/en/business-and-organisation/vat/rates-and-registration/vat-rates/",
-    "last_validated_utc": "2025-08-27T10:37:58.293332+00:00"
+    "last_validated_utc": "2025-08-27T11:05:58.015952+00:00"
   }
 ]

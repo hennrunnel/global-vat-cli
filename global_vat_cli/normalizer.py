@@ -48,6 +48,15 @@ CATEGORY_MAP: Dict[str, str] = {
     "Child Wear": "Other Physical Goods",
     "Cleaning Product": "Other Physical Goods",
     "Printed Advertising Material": "Other Physical Goods",
+    # Canada-specific source labels -> EU-aligned UI labels
+    "Basic Groceries": "Food & Groceries",
+    "Prescription Drugs": "Pharmaceuticals & Medical Goods",
+    "Medical Devices": "Pharmaceuticals & Medical Goods",
+    # Standard (by tax program labels)
+    "Federal (GST)": "Standard Rate",
+    "Standard (HST)": "Standard Rate",
+    "Provincial (PST)": "Standard Rate",
+    "Provincial (QST)": "Standard Rate",
     # Standard Rate
     "Region": "Standard Rate",
     "Standard": "Standard Rate",
