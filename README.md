@@ -1,5 +1,5 @@
 Global VAT/GST Dataset for E-commerce
-Last Updated: 2025-08-27T10:19:45.867102+00:00
+Last Updated: 2025-08-27T10:38:48.729700+00:00
 Context: Public datasets that feed Voog's multi-VAT support.
 This document contains VAT/GST rates for physical goods, compiled from official government sources.
 
