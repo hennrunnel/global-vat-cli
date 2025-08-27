@@ -1,5 +1,5 @@
 Global VAT/GST Dataset for E-commerce
-Last Updated: 2025-08-27T11:06:58.596774+00:00
+Last Updated: 2025-08-27T11:16:24.595580+00:00
 Context: Public datasets that feed Voog's multi-VAT support.
 This document contains VAT/GST rates for physical goods, compiled from official government sources.
 
@@ -236,60 +236,52 @@ Energy-saving materials permanently installed in dwellings and buildings used fo
 Standard Rate (Default) | Other Physical Goods | 20.0
 
 Canada (CA)
-Country | Source Category | Normalized Category | Rate (%)
+Tax Programs by Province
+Province | Program | Rate (%)
+--- | --- | ---
+
+Zero-rated Categories (Federal) by Province
+Province | Category | Normalized Category | Rate (%)
 --- | --- | --- | ---
-CA | Books | Books & Publications | 0.0
-CA | Books | Books & Publications | 0.0
-CA | Books | Books & Publications | 0.0
-CA | Books | Books & Publications | 0.0
-CA | Books | Books & Publications | 0.0
-CA | Books | Books & Publications | 0.0
-CA | Books | Books & Publications | 0.0
-CA | Books | Books & Publications | 0.0
-CA | Books | Books & Publications | 0.0
-CA | Books | Books & Publications | 0.0
-CA | Books | Books & Publications | 0.0
-CA | Books | Books & Publications | 0.0
-CA | Books | Books & Publications | 0.0
-CA | Basic Groceries | Food & Groceries | 0.0
-CA | Basic Groceries | Food & Groceries | 0.0
-CA | Basic Groceries | Food & Groceries | 0.0
-CA | Basic Groceries | Food & Groceries | 0.0
-CA | Basic Groceries | Food & Groceries | 0.0
-CA | Basic Groceries | Food & Groceries | 0.0
-CA | Basic Groceries | Food & Groceries | 0.0
-CA | Basic Groceries | Food & Groceries | 0.0
-CA | Basic Groceries | Food & Groceries | 0.0
-CA | Basic Groceries | Food & Groceries | 0.0
-CA | Basic Groceries | Food & Groceries | 0.0
-CA | Basic Groceries | Food & Groceries | 0.0
-CA | Basic Groceries | Food & Groceries | 0.0
-CA | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
-CA | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
-CA | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
-CA | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
-CA | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
-CA | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
-CA | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
-CA | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
-CA | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
-CA | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
-CA | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
-CA | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
-CA | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
-CA | Standard | Standard Rate | 5.0
-CA | Standard | Standard Rate | 5.0
-CA | Standard | Standard Rate | 5.0
-CA | Standard | Standard Rate | 15.0
-CA | Standard | Standard Rate | 15.0
-CA | Standard | Standard Rate | 15.0
-CA | Standard | Standard Rate | 5.0
-CA | Standard | Standard Rate | 5.0
-CA | Standard | Standard Rate | 13.0
-CA | Standard | Standard Rate | 15.0
-CA | Standard | Standard Rate | 5.0
-CA | Standard | Standard Rate | 5.0
-CA | Standard | Standard Rate | 5.0
+Alberta | Books | Books & Publications | 0.0
+Alberta | Basic Groceries | Food & Groceries | 0.0
+Alberta | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
+British Columbia | Books | Books & Publications | 0.0
+British Columbia | Basic Groceries | Food & Groceries | 0.0
+British Columbia | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
+Manitoba | Books | Books & Publications | 0.0
+Manitoba | Basic Groceries | Food & Groceries | 0.0
+Manitoba | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
+New Brunswick | Books | Books & Publications | 0.0
+New Brunswick | Basic Groceries | Food & Groceries | 0.0
+New Brunswick | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
+Newfoundland and Labrador | Books | Books & Publications | 0.0
+Newfoundland and Labrador | Basic Groceries | Food & Groceries | 0.0
+Newfoundland and Labrador | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
+Northwest Territories | Books | Books & Publications | 0.0
+Northwest Territories | Basic Groceries | Food & Groceries | 0.0
+Northwest Territories | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
+Nova Scotia | Books | Books & Publications | 0.0
+Nova Scotia | Basic Groceries | Food & Groceries | 0.0
+Nova Scotia | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
+Nunavut | Books | Books & Publications | 0.0
+Nunavut | Basic Groceries | Food & Groceries | 0.0
+Nunavut | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
+Ontario | Books | Books & Publications | 0.0
+Ontario | Basic Groceries | Food & Groceries | 0.0
+Ontario | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
+Prince Edward Island | Books | Books & Publications | 0.0
+Prince Edward Island | Basic Groceries | Food & Groceries | 0.0
+Prince Edward Island | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
+Quebec | Books | Books & Publications | 0.0
+Quebec | Basic Groceries | Food & Groceries | 0.0
+Quebec | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
+Saskatchewan | Books | Books & Publications | 0.0
+Saskatchewan | Basic Groceries | Food & Groceries | 0.0
+Saskatchewan | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
+Yukon | Books | Books & Publications | 0.0
+Yukon | Basic Groceries | Food & Groceries | 0.0
+Yukon | Prescription Drugs | Pharmaceuticals & Medical Goods | 0.0
 
 Switzerland (CH)
 Country | Source Category | Normalized Category | Rate (%)

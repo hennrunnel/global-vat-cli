@@ -73,10 +73,30 @@ def write_readme(records: List[DataRecord], out_path: str) -> None:
             for r in sorted(items, key=lambda x: (x.category_ui_label, x.rate_percent)):
                 lines.append(f"{r.category_source_label} | {r.category_ui_label} | {r.rate_percent}")
         else:
-            lines.append("Country | Source Category | Normalized Category | Rate (%)")
-            lines.append("--- | --- | --- | ---")
-            for r in sorted(items, key=lambda x: (x.country_iso, x.category_ui_label)):
-                lines.append(f"{r.country_iso} | {r.category_source_label} | {r.category_ui_label} | {r.rate_percent}")
+            if title.startswith("Canada"):
+                program_prefixes = {"Federal (GST)", "Standard (HST)", "Provincial (PST)", "Provincial (QST)"}
+                zero_labels = {"Basic Groceries", "Prescription Drugs", "Medical Devices", "Books"}
+
+                program_rows = [r for r in items if r.category_source_label in program_prefixes]
+                zero_rows = [r for r in items if r.category_source_label in zero_labels]
+
+                lines.append("Tax Programs by Province")
+                lines.append("Province | Program | Rate (%)")
+                lines.append("--- | --- | ---")
+                for r in sorted(program_rows, key=lambda x: (x.jurisdiction_name, x.category_source_label)):
+                    lines.append(f"{r.jurisdiction_name} | {r.category_source_label} | {r.rate_percent}")
+                lines.append("")
+
+                lines.append("Zero-rated Categories (Federal) by Province")
+                lines.append("Province | Category | Normalized Category | Rate (%)")
+                lines.append("--- | --- | --- | ---")
+                for r in sorted(zero_rows, key=lambda x: (x.jurisdiction_name, x.category_ui_label)):
+                    lines.append(f"{r.jurisdiction_name} | {r.category_source_label} | {r.category_ui_label} | {r.rate_percent}")
+            else:
+                lines.append("Country | Source Category | Normalized Category | Rate (%)")
+                lines.append("--- | --- | --- | ---")
+                for r in sorted(items, key=lambda x: (x.country_iso, x.category_ui_label)):
+                    lines.append(f"{r.country_iso} | {r.category_source_label} | {r.category_ui_label} | {r.rate_percent}")
         lines.append("")
 
     Path(out_path).write_text("\n".join(lines))
